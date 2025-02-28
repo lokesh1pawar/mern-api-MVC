@@ -1,0 +1,10 @@
+
+1740563773218:::1 GET: /api/users
+
+1740564011795:::1 GET: /api/users
+
+1740564077324:::1 POST: /api/users
+
+1740564244786:::1 GET: /api/users/67bee66dd7b06751e1038504
+
+1740564293825:::1 DELETE: /api/users/67bee66dd7b06751e1038504
